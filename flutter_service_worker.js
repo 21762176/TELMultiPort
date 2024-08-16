@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.json": "ef80f9fcb40b52e79293b7a12c3b47e
 "assets/FontManifest.json": "9d93733cca573f60b8b1b02529f8aaf1",
 "assets/fonts/Euclid%2520Regular.ttf": "c0152cb744b60409569eeee46b8897f3",
 "assets/fonts/MaterialIcons-Regular.otf": "2c5ad3e793acc82f7a2f9f950a82c5e1",
-"assets/NOTICES": "4cd8cb1b6f433f9a23bb1c3ff4a14c71",
+"assets/NOTICES": "d9842a42cdcda4dc5910603ebcbf1f0b",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf": "7ec92adfa4fe03eb8e9bfb60813df1fa",
@@ -59,9 +59,9 @@ const RESOURCES = {"assets/AssetManifest.json": "ef80f9fcb40b52e79293b7a12c3b47e
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "704f5a6d377d9f8182c8b48d28916c7e",
-"/": "704f5a6d377d9f8182c8b48d28916c7e",
-"main.dart.js": "847b596103de490d25cc69b2f3aea90d",
+"index.html": "062ca99f83452342adc00d77741d2280",
+"/": "062ca99f83452342adc00d77741d2280",
+"main.dart.js": "e0d62e1c712d58096e53423742194fd3",
 "manifest.json": "bf24c84c3bf99672a631c4f84464e793",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7"};
 // The application shell files that are downloaded before a service worker can
